@@ -14,10 +14,10 @@ Solution:
 Solution in My words/My Methodology:
 1.Access the lab in the burp browser
 2.Click on a product and intercept the traffic in burp proxy
-![alt text](../Images/Pastedimage.png)
+![alt text](./Images/Pastedimage.png)
 3.Change the image file name to ../../../etc/passwd and send the request 
-![alt text](../Images/Pastedimage2.png)
+![alt text](./Images/Pastedimage2.png)
 4.After the the response the lab is solved automatically
-![alt text](../Images/Pastedimage3.png)
+![alt text](./Images/Pastedimage3.png)
 
 
