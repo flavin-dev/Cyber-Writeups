@@ -1,2 +1,2 @@
 Lab: File path traversal, simple case
-![alt text](./image.png)
+![alt text](./Images/image.png)
