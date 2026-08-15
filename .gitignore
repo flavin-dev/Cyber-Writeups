@@ -1,0 +1,14 @@
+# Obsidian workspace files (device specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian trash
+.trash/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
