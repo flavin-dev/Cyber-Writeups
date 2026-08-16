@@ -30,3 +30,10 @@ The difference between `URL`s and `FQDN`s is that:
 - an `FQDN` (`www.hackthebox.eu`) only specifies the address of the "building" and
 - an `URL` (`https://www.hackthebox.eu/example?floor=2&office=dev&employee=17`) also specifies the "`floor`," "`office`," "`mailbox`" and the corresponding "`employee`" for whom the package is intended.
 
+our post office forwards our packets to the main post office, representing our `Internet Service Provider` (`ISP`).
+
+Our post office is our `router` which we utilize to connect to the "`Internet`" in networking.
+
+As soon as we send our packet through our post office (`router`), the packet is forwarded to the `main post office` (`ISP`). This main post office looks in the `address register`/`phonebook` (`Domain Name Service`) where this address is located and returns the corresponding geographical coordinates (`IP address`). Now that we know the address's exact location, our packet is sent directly there by a direct flight via our main post office.
+
+
